@@ -98,8 +98,8 @@ export default function Home() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">About Me</h2>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I'm an entry-level web developer with a passion for creating beautiful, functional websites. I
-                  recently completed my education in web development and I'm eager to apply my skills in a professional
+                  I'm a web developer with a passion for creating beautiful, functional websites. I
+                  completed my education in web development and I'm eager to apply my skills in a professional
                   setting.
                 </p>
               </div>
