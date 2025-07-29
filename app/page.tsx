@@ -82,7 +82,7 @@ export default function Home() {
                 </div>
               </div>
               <Image
-                src="/images/william-profile.jpg"
+                src="https://res.cloudinary.com/dwcc4zkfp/image/upload/v1753801058/IMG_0215_uo8khs.jpg"
                 width={550}
                 height={550}
                 alt="William Averill - Web Developer"
@@ -106,7 +106,7 @@ export default function Home() {
             </div>
             <div className="mx-auto grid max-w-5xl items-center gap-6 py-12 lg:grid-cols-2 lg:gap-12">
               <Image
-                src="/images/react-certificate.png"
+                src="https://res.cloudinary.com/dwcc4zkfp/image/upload/v1753801079/react_nanodegree_udacity_vp17yk.png"
                 width={500}
                 height={350}
                 alt="William Averill's React Nanodegree Certificate from Udacity"
