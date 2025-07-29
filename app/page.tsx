@@ -118,7 +118,7 @@ export default function Home() {
                     <div className="grid gap-1">
                       <h3 className="text-xl font-bold">Background</h3>
                       <p className="text-muted-foreground">
-                        I have a background in Computer Science and decided to pursue web development because of my
+                        I have a background in Computer Science and am seeking a position in web development because of my
                         passion for creating digital experiences.
                       </p>
                     </div>
