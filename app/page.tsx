@@ -107,8 +107,8 @@ export default function Home() {
             <div className="mx-auto grid max-w-5xl items-center gap-6 py-12 lg:grid-cols-2 lg:gap-12">
               <Image
                 src="https://res.cloudinary.com/dwcc4zkfp/image/upload/v1753801079/react_nanodegree_udacity_vp17yk.png"
-                width={500}
-                height={350}
+                width={600}
+                height={400}
                 alt="William Averill's React Nanodegree Certificate from Udacity"
                 className="mx-auto overflow-hidden rounded-xl object-contain bg-white shadow-lg border"
               />
