@@ -270,18 +270,8 @@ export default function Home() {
             </div>
             <div className="mx-auto grid max-w-5xl gap-8 py-12 md:grid-cols-2 lg:gap-12">
               <Card className="overflow-hidden">
-                <Image
-                  src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=300&fit=crop"
-                  width={600}
-                  height={300}
-                  alt="Task Manager App Project"
-                  className="aspect-video object-cover w-full"
-                />
                 <CardContent className="p-6">
                   <div className="flex flex-wrap gap-2 mb-4">
-                    <Badge>JavaScript</Badge>
-                    <Badge>CSS</Badge>
-                    <Badge>HTML</Badge>
                   </div>
                   <h3 className="text-2xl font-bold">Task Manager App</h3>
                   <p className="text-muted-foreground mt-2">
@@ -304,18 +294,8 @@ export default function Home() {
                 </CardContent>
               </Card>
               <Card className="overflow-hidden">
-                <Image
-                  src="https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=300&fit=crop"
-                  width={600}
-                  height={300}
-                  alt="Weather App Project"
-                  className="aspect-video object-cover w-full"
-                />
                 <CardContent className="p-6">
                   <div className="flex flex-wrap gap-2 mb-4">
-                    <Badge>React</Badge>
-                    <Badge>API Integration</Badge>
-                    <Badge>CSS</Badge>
                   </div>
                   <h3 className="text-2xl font-bold">Weather App</h3>
                   <p className="text-muted-foreground mt-2">
@@ -323,13 +303,13 @@ export default function Home() {
                   </p>
                   <div className="flex gap-4 mt-6">
                     <Button asChild size="sm" variant="outline">
-                      <Link href="#" className="flex items-center">
+                      <Link href="https://github.com/cyberagellc-dev/weather" className="flex items-center">
                         <Github className="mr-2 h-4 w-4" />
                         Code
                       </Link>
                     </Button>
                     <Button asChild size="sm">
-                      <Link href="#" className="flex items-center">
+                      <Link href="https://cyberagellc-dev-weather.vercel.app/" className="flex items-center">
                         <ExternalLink className="mr-2 h-4 w-4" />
                         Live Demo
                       </Link>
