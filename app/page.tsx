@@ -274,41 +274,6 @@ export default function Home() {
                   src="/placeholder.svg?height=300&width=600"
                   width={600}
                   height={300}
-                  alt="Project 1"
-                  className="aspect-video object-cover w-full"
-                />
-                <CardContent className="p-6">
-                  <div className="flex flex-wrap gap-2 mb-4">
-                    <Badge>React</Badge>
-                    <Badge>Node.js</Badge>
-                    <Badge>Next.js</Badge>
-                  </div>
-                  <h3 className="text-2xl font-bold">E-commerce Website</h3>
-                  <p className="text-muted-foreground mt-2">
-                    A fully responsive e-commerce website with product listings, cart functionality, and checkout
-                    process.
-                  </p>
-                  <div className="flex gap-4 mt-6">
-                    <Button asChild size="sm" variant="outline">
-                      <Link href="#" className="flex items-center">
-                        <Github className="mr-2 h-4 w-4" />
-                        Code
-                      </Link>
-                    </Button>
-                    <Button asChild size="sm">
-                      <Link href="#" className="flex items-center">
-                        <ExternalLink className="mr-2 h-4 w-4" />
-                        Live Demo
-                      </Link>
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
-              <Card className="overflow-hidden">
-                <Image
-                  src="/placeholder.svg?height=300&width=600"
-                  width={600}
-                  height={300}
                   alt="Project 2"
                   className="aspect-video object-cover w-full"
                 />
@@ -355,40 +320,6 @@ export default function Home() {
                   <h3 className="text-2xl font-bold">Weather App</h3>
                   <p className="text-muted-foreground mt-2">
                     A weather application that fetches real-time weather data from an API and displays forecasts.
-                  </p>
-                  <div className="flex gap-4 mt-6">
-                    <Button asChild size="sm" variant="outline">
-                      <Link href="#" className="flex items-center">
-                        <Github className="mr-2 h-4 w-4" />
-                        Code
-                      </Link>
-                    </Button>
-                    <Button asChild size="sm">
-                      <Link href="#" className="flex items-center">
-                        <ExternalLink className="mr-2 h-4 w-4" />
-                        Live Demo
-                      </Link>
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
-              <Card className="overflow-hidden">
-                <Image
-                  src="/placeholder.svg?height=300&width=600"
-                  width={600}
-                  height={300}
-                  alt="Project 4"
-                  className="aspect-video object-cover w-full"
-                />
-                <CardContent className="p-6">
-                  <div className="flex flex-wrap gap-2 mb-4">
-                    <Badge>Next.js</Badge>
-                    <Badge>Node.js</Badge>
-                    <Badge>Responsive Design</Badge>
-                  </div>
-                  <h3 className="text-2xl font-bold">Portfolio Website</h3>
-                  <p className="text-muted-foreground mt-2">
-                    A personal portfolio website showcasing projects and skills (the one you're looking at!).
                   </p>
                   <div className="flex gap-4 mt-6">
                     <Button asChild size="sm" variant="outline">
