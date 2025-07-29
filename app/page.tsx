@@ -271,10 +271,10 @@ export default function Home() {
             <div className="mx-auto grid max-w-5xl gap-8 py-12 md:grid-cols-2 lg:gap-12">
               <Card className="overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=300&width=600"
+                  src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=300&fit=crop"
                   width={600}
                   height={300}
-                  alt="Project 2"
+                  alt="Task Manager App Project"
                   className="aspect-video object-cover w-full"
                 />
                 <CardContent className="p-6">
@@ -305,10 +305,10 @@ export default function Home() {
               </Card>
               <Card className="overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=300&width=600"
+                  src="https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=300&fit=crop"
                   width={600}
                   height={300}
-                  alt="Project 3"
+                  alt="Weather App Project"
                   className="aspect-video object-cover w-full"
                 />
                 <CardContent className="p-6">
