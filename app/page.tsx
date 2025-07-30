@@ -275,7 +275,7 @@ export default function Home() {
                   </div>
                   <h3 className="text-2xl font-bold">Task Manager App</h3>
                   <p className="text-muted-foreground mt-2">
-                    A task management application with features like task creation, due dates, and priority levels.
+                    A task management application with features like task creation, completion, and sequencing.
                   </p>
                   <div className="flex gap-4 mt-6">
                     <Button asChild size="sm" variant="outline">
