@@ -279,13 +279,13 @@ export default function Home() {
                   </p>
                   <div className="flex gap-4 mt-6">
                     <Button asChild size="sm" variant="outline">
-                      <Link href="#" className="flex items-center">
+                      <Link href="https://github.com/cyberagellc-dev/todo" className="flex items-center">
                         <Github className="mr-2 h-4 w-4" />
                         Code
                       </Link>
                     </Button>
                     <Button asChild size="sm">
-                      <Link href="#" className="flex items-center">
+                      <Link href="cyberagellc-dev-todo.vercel.app" className="flex items-center">
                         <ExternalLink className="mr-2 h-4 w-4" />
                         Live Demo
                       </Link>
