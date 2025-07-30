@@ -285,7 +285,7 @@ export default function Home() {
                       </Link>
                     </Button>
                     <Button asChild size="sm">
-                      <Link href="cyberagellc-dev-todo.vercel.app" className="flex items-center">
+                      <Link href="https://cyberagellc-dev-todo.vercel.app" className="flex items-center">
                         <ExternalLink className="mr-2 h-4 w-4" />
                         Live Demo
                       </Link>
